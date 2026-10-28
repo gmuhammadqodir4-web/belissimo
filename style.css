@@ -1,0 +1,5100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 250px;
+    align-items: center;
+    gap: 800px;
+}
+
+.headre1 {
+   display: flex;
+   gap: 50px;
+   font-size: 25px;
+   align-items: center;
+   margin-left: -300px;
+}
+
+.yashil-ech3 {
+    color: green;
+}
+
+.belli-logo {
+    margin-left: 350px;
+}
+
+.otasi {
+    align-items: center;
+    justify-content: space-around;
+}
+
+.btnsss {
+    margin-top: -100px;
+}
+
+.belli-logo1 {
+    margin-left: 740px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.lokatsiyalar {
+    align-items: center;
+    margin-top: -75px;
+}
+
+.lokatsiyalar1 {
+    align-items: center;
+    margin-top: -10px;
+}
+
+.bolasi1 {
+    align-items: center;
+}
+
+.bolasi2 {      
+    align-items: center;
+    margin-top: -50px;
+}
+
+.belli-logo2 {
+    margin-left: 950px;
+    margin-top: -105px;
+    border-radius: 20px;
+}
+
+.bolasi2 {
+    display: flex;
+    gap: 20px;
+    margin-left: 2000px;
+}
+
+.eccc {
+    margin-left: 820px;
+    margin-top: -62px;
+}
+
+.btnsss-logo {
+    padding: 20px;
+    width: 100px;
+    border: none;
+    border-radius: 20px;
+    background-color: green;
+    color: aliceblue;
+    font-size: 15px;
+}
+
+.btnsss {
+    margin-left: 2300px;
+    padding: 20px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    color: aliceblue;
+    background-color: green;
+}
+
+.pppxxx-logo {
+   font-size: 25px;
+}
+
+.pppxxx2 {
+    margin-left: 1040px;
+    margin-top: -55px;
+}
+
+.pppxxx1 {
+    margin-left: 820px;
+}
+
+select {
+    padding: 15px;
+    background-color: aliceblue;
+    color: black;
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+}
+
+.hedr2 {
+    margin-left: 50px;
+}
+
+.toshkent2 {
+    display: flex;
+}
+
+.site-list{
+    display: flex;
+}
+
+
+
+.rasm {
+    display: flex;
+    margin-left: 1200px;
+    margin-top: -50px;
+    gap: 20px;
+
+    .rasm2 {
+        margin-top: 8px;
+        font-size: 22px;
+    }
+
+    a {
+        color: aliceblue;
+        font-size: 20px;
+        text-decoration: none;
+    }
+
+    button {
+        width: 100px;
+        color: aliceblue;
+        background-color: green;
+        border-radius: 50px;
+        border: 1px solid green;
+    }
+
+}
+
+section {
+    margin-left: -150px;
+}
+
+.bellissimo {
+    width: 2280px;
+    height: 700px;
+    margin-top: 20px;
+}
+
+.pitsa {
+    margin-left: 650px;
+    width: 1000px;
+    height: 300px;
+    background-size: cover;
+}
+
+.pitsa2 {
+    margin-left: 650px;
+    width: 1000px;
+    height: 300px;
+    background-size: cover;
+    margin-top: 5px;
+}
+
+.pitsa {
+    display: flex;
+    gap: 5px;
+
+    .bellissimo2 {
+        width: 755px;
+    }
+
+    .bellissimo3 {
+        width: 755px;
+    }
+
+}
+
+.pitsa2 {
+    display: flex;
+    gap: 5px;
+
+    .bellissimo4 {
+        width: 755px;
+    }
+
+    .bellissimo5 {
+        width: 755px;
+    }
+}
+
+
+.btn {
+    display: flex;
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-left: 150px;
+    gap: 20px;
+
+    .btns2 {
+        width: 200px;
+        background-color: rgb(188, 187, 187);
+        border-radius: 30px;
+        padding: 15px;
+        border: 1px solid rgb(188, 187, 187);
+    }
+
+    .btns {
+        width: 200px;
+        border-radius: 30px;
+        border: 1px solid aliceblue;
+    }
+
+    .btns3 {
+        width: 1000px;
+        border-radius: 30px;
+        border: 1px solid gold;
+        color: gold;
+    }
+}
+
+.ovqatlar {
+    display: flex;
+    gap: 17px;
+    margin-left: 170px;
+    margin-top: 20px;
+    font-size: 20px;
+
+    .pz8 {
+        background-color: red;
+        color: aliceblue;
+        padding: 10px;
+        width: 150px;
+        border-radius: 50px;
+        margin-top: -8px;
+        margin-left: 720px;
+        border: 1px solid red;
+    }
+}
+
+
+.kb1 {
+    font-size: 30px;
+    text-align: center;
+    margin-left: 120px;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+
+
+.taomlar {
+
+    display: flex;
+    gap: 75px;
+    margin-top: 50px;
+    margin-left: 230px;
+
+    .qator1 {
+
+        background-color: aliceblue;
+        width: 400px;
+        height: 500px;
+        border-radius: 20px;
+
+
+        .pzz1 {
+            border-radius: 20px;
+        }
+
+        .ech1 {
+            font-size: 30px;
+            margin-left: 15px;
+        }
+
+        .pizza1 {
+            margin-left: 15px;
+        }
+
+        .del1 {
+            font-size: 25px;
+            color: grey;
+            margin-left: 15px;
+        }
+
+        .buyutma1 {
+            font-size: 20px;
+            background-color: red;
+            color: aliceblue;
+            border: 1px solid red;
+            padding: 5px;
+            border-radius: 20px;
+            margin-left: 15px;
+        }
+
+        .bari1 {
+            font-size: 25px;
+            margin-left: 15px;
+        }
+
+    }
+
+
+
+    .qator2 {
+
+        background-color: aliceblue;
+        width: 400px;
+        height: 500px;
+        border-radius: 20px;
+
+        .pzz2 {
+            border-radius: 20px;
+        }
+
+
+        .ech2 {
+            font-size: 30px;
+            margin-left: 15px;
+
+        }
+
+        .pizza2 {
+            margin-left: 15px;
+        }
+
+        .bari2 {
+            font-size: 25px;
+            margin-left: 15px;
+        }
+    }
+
+    .qator3 {
+
+        background-color: aliceblue;
+        width: 400px;
+        height: 500px;
+        border-radius: 20px;
+
+        .pzz3 {
+            border-radius: 20px;
+        }
+
+        .ech3 {
+            font-size: 30px;
+            margin-left: 15px;
+        }
+
+        .pizza3 {
+            margin-left: 20px;
+        }
+
+        .bari3 {
+            font-size: 25px;
+            margin-left: 15px;
+        }
+
+        .buyutma3 {
+            font-size: 20px;
+            background-color: red;
+            color: aliceblue;
+            border: 1px solid red;
+            padding: 5px;
+            border-radius: 20px;
+            margin-left: 15px;
+        }
+
+        .del3 {
+            font-size: 25px;
+            color: grey;
+            margin-left: 15px;
+        }
+
+    }
+}
+
+.kb2 {
+    font-size: 40px;
+    margin-left: 120px;
+}
+
+.taomlar2 {
+    display: flex;
+    gap: 150px;
+    margin-top: 50px;
+    margin-left: 230px;
+
+
+    .qator4 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 520px;
+        border-radius: 20px;
+
+
+        .pzz4 {
+            border-radius: 20px;
+        }
+
+        .ech4 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza4 {
+            margin-left: 20px;
+        }
+
+        .bari4 {
+            font-size: 25px;
+            margin-left: 20px;
+        }
+    }
+
+    .qator5 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 520px;
+        border-radius: 20px;
+
+        .pzz5 {
+            border-radius: 20px;
+        }
+
+        .ech5 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza5 {
+            margin-left: 20px;
+        }
+
+        .bari5 {
+            font-size: 25px;
+            margin-left: 20px;
+        }
+
+        .buyutma5 {
+            font-size: 20px;
+            background-color: red;
+            color: aliceblue;
+            border: 1px solid red;
+            padding: 5px;
+            border-radius: 20px;
+            margin-left: 15px;
+        }
+
+        .del5 {
+            font-size: 25px;
+            color: grey;
+            margin-left: 15px;
+        }
+
+    }
+
+    .qator6 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 520px;
+        border-radius: 20px;
+
+        .pzz6 {
+            border-radius: 20px;
+        }
+
+        .ech6 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza6 {
+            margin-left: 20px;
+        }
+
+        .bari6 {
+            font-size: 25px;
+            margin-left: 20px;
+        }
+
+        .buyutma6 {
+            font-size: 20px;
+            background-color: red;
+            color: aliceblue;
+            border: 1px solid red;
+            padding: 5px;
+            border-radius: 20px;
+            margin-left: 15px;
+        }
+
+        .del6 {
+            font-size: 25px;
+            color: grey;
+            margin-left: 20px;
+        }
+
+    }
+
+}
+
+
+.taomlar3 {
+    display: flex;
+    gap: 150px;
+    margin-top: 50px;
+    margin-left: 230px;
+
+    .qator7 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+
+        .pzz7 {
+            border-radius: 20px;
+        }
+
+        .ech7 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza7 {
+            margin-left: 20px;
+        }
+
+        .bari7 {
+            font-size: 25px;
+            margin-left: 20px;
+        }
+
+        .buyutma7 {
+            font-size: 20px;
+            background-color: red;
+            color: aliceblue;
+            border: 1px solid red;
+            padding: 5px;
+            border-radius: 20px;
+            margin-left: 15px;
+        }
+
+        .del7 {
+            font-size: 25px;
+            color: grey;
+            margin-left: 20px;
+        }
+
+
+    }
+
+
+    .qator8 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+
+        .pzz8 {
+            border-radius: 20px;
+        }
+
+        .ech8 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza8 {
+            margin-left: 20px;
+        }
+
+        .bari8 {
+            font-size: 25px;
+            margin-left: 20px;
+        }
+
+        .buyutma8 {
+            font-size: 20px;
+            background-color: red;
+            color: aliceblue;
+            border: 1px solid red;
+            padding: 5px;
+            border-radius: 20px;
+            margin-left: 15px;
+        }
+
+        .del8 {
+            font-size: 25px;
+            color: grey;
+            margin-left: 20px;
+        }
+    }
+
+    .qator9 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+
+        .pzz9 {
+            border-radius: 20px;
+        }
+
+        .ech9 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza9 {
+            margin-left: 20px;
+        }
+
+        .bari9 {
+            font-size: 25px;
+            margin-left: 20px;
+        }
+
+        .buyutma9 {
+            font-size: 20px;
+            background-color: red;
+            color: aliceblue;
+            border: 1px solid red;
+            padding: 5px;
+            border-radius: 20px;
+            margin-left: 15px;
+        }
+
+        .del9 {
+            font-size: 25px;
+            color: grey;
+            margin-left: 20px;
+        }
+    }
+}
+
+.taomlar4 {
+    display: flex;
+    gap: 150px;
+    margin-top: 50px;
+    margin-left: 230px;
+
+    .qator10 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+
+        .pzz10 {
+            border-radius: 20px;
+        }
+
+        .ech10 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza10 {
+            margin-left: 20px;
+        }
+
+        .bari10 {
+            font-size: 25px;
+            margin-left: 20px;
+        }
+
+        .buyutma10 {
+            font-size: 20px;
+            background-color: red;
+            color: aliceblue;
+            border: 1px solid red;
+            padding: 5px;
+            border-radius: 20px;
+            margin-left: 15px;
+        }
+
+        .del10 {
+            font-size: 25px;
+            color: grey;
+            margin-left: 20px;
+        }
+
+
+    }
+
+
+    .qator11 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+
+        .pzz11 {
+            border-radius: 20px;
+        }
+
+        .ech11 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza11 {
+            margin-left: 20px;
+        }
+
+        .bari11 {
+            font-size: 25px;
+            margin-left: 20px;
+        }
+
+        .buyutma11 {
+            font-size: 20px;
+            background-color: red;
+            color: aliceblue;
+            border: 1px solid red;
+            padding: 5px;
+            border-radius: 20px;
+            margin-left: 15px;
+        }
+
+        .del11 {
+            font-size: 25px;
+            color: grey;
+            margin-left: 20px;
+        }
+
+
+    }
+
+
+    .qator12 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+
+        .pzz12 {
+            border-radius: 20px;
+        }
+
+        .ech12 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza12 {
+            margin-left: 20px;
+        }
+
+        .bari12 {
+            font-size: 25px;
+            margin-left: 20px;
+        }
+
+        .buyutma12 {
+            font-size: 20px;
+            background-color: red;
+            color: aliceblue;
+            border: 1px solid red;
+            padding: 5px;
+            border-radius: 20px;
+            margin-left: 15px;
+        }
+
+        .del12 {
+            font-size: 25px;
+            color: grey;
+            margin-left: 20px;
+        }
+
+
+    }
+}
+
+
+.qator13 {
+    background-color: aliceblue;
+    width: 400px;
+    height: 550px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 630px;
+
+    .pzz13 {
+        border-radius: 20px;
+    }
+
+    .ech13 {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+
+    .pizza13 {
+        margin-left: 20px;
+    }
+
+    .bari13 {
+        font-size: 25px;
+        margin-left: 20px;
+    }
+
+    .buyutma13 {
+        font-size: 20px;
+        background-color: red;
+        color: aliceblue;
+        border: 1px solid red;
+        padding: 5px;
+        border-radius: 20px;
+        margin-left: 15px;
+    }
+
+    .del13 {
+        font-size: 25px;
+        color: grey;
+        margin-left: 20px;
+    }
+}
+
+.kb2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.taomlar5 {
+    display: flex;
+    margin-left: 5px;
+
+    .qator14 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+
+        .pzz14 {
+            border-radius: 20px;
+        }
+
+        .ech14 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza14 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma14 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator15 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz15 {
+            border-radius: 20px;
+        }
+
+        .ech15 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza15 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma15 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator16 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz16 {
+            border-radius: 20px;
+        }
+
+        .ech16 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza16 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma16 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+
+
+.taomlar7 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator17 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz17 {
+            border-radius: 20px;
+        }
+
+        .ech17 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza17 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma17 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+    .qator18 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz18 {
+            border-radius: 20px;
+        }
+
+        .ech18 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza18 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma18 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator19 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz19 {
+            border-radius: 20px;
+        }
+
+        .ech19 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza19 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma19 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar8 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator20 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz20 {
+            border-radius: 20px;
+        }
+
+        .ech20 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza20 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma20 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator21 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz21 {
+            border-radius: 20px;
+        }
+
+        .ech21 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza21 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma21 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator22 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz22 {
+            border-radius: 20px;
+        }
+
+        .ech22 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza22 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma22 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar9 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator23 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz23 {
+            border-radius: 20px;
+        }
+
+        .ech23 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza23 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma23 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator24 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz24 {
+            border-radius: 20px;
+        }
+
+        .ech24 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza24 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma24 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator25 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz25 {
+            border-radius: 20px;
+        }
+
+        .ech25 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza25 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma25 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar10 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator26 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz26 {
+            border-radius: 20px;
+        }
+
+        .ech26 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza26 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma26 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator27 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz27 {
+            border-radius: 20px;
+        }
+
+        .ech27 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza27 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma27 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator28 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz28 {
+            border-radius: 20px;
+        }
+
+        .ech28 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza28 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma28 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar11 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator29 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz29 {
+            border-radius: 20px;
+        }
+
+        .ech29 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza29 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma29 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator30 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz30 {
+            border-radius: 20px;
+        }
+
+        .ech30 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza30 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma30 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator31 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz31 {
+            border-radius: 20px;
+        }
+
+        .ech31 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza31 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma31 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar12 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator32 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz32 {
+            border-radius: 20px;
+        }
+
+        .ech32 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza32 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma32 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator33 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz33 {
+            border-radius: 20px;
+        }
+
+        .ech33 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza33 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma33 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator34 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz34 {
+            border-radius: 20px;
+        }
+
+        .ech34 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza34 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma34 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar13 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator35 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz35 {
+            border-radius: 20px;
+        }
+
+        .ech35 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza35 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma35 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator36 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz36 {
+            border-radius: 20px;
+        }
+
+        .ech36 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza36 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma36 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator37 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz37 {
+            border-radius: 20px;
+        }
+
+        .ech37 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza37 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma37 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar14 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator38 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz38 {
+            border-radius: 20px;
+        }
+
+        .ech38 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza38 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma38 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator39 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz39 {
+            border-radius: 20px;
+        }
+
+        .ech39 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza39 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma39 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator40 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz40 {
+            border-radius: 20px;
+        }
+
+        .ech40 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza40 {
+            margin-left: 20px;
+        }
+
+        .buyutma40 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar15 {
+    display: flex;
+    margin-left: -390px;
+
+    .qator41 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz41 {
+            border-radius: 20px;
+        }
+
+        .ech41 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza41 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma41 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator42 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz42 {
+            border-radius: 20px;
+        }
+
+        .ech42 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza42 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma42 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+    .qator42 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz42 {
+            border-radius: 20px;
+        }
+
+        .ech42 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza42 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma42 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.kb3 {
+    text-align: center;
+    font-size: 30px;
+    margin-left: 110px;
+}
+
+.taomlar16 {
+    display: flex;
+    margin-left: 70px;
+
+
+    .qator43 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz43 {
+            border-radius: 20px;
+        }
+
+        .ech43 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza43 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma43 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+
+
+
+    .qator44 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz44 {
+            border-radius: 20px;
+        }
+
+        .ech44 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza44 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma44 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+    .qator45 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz45 {
+            border-radius: 20px;
+        }
+
+        .ech45 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza45 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma45 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar17 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator46 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz46 {
+            border-radius: 20px;
+        }
+
+        .ech46 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza46 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma46 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+
+
+
+    .qator47 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz47 {
+            border-radius: 20px;
+        }
+
+        .ech47 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza47 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma47 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+    .qator48 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz48 {
+            border-radius: 20px;
+        }
+
+        .ech48 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza48 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma48 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar18 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator49 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz49 {
+            border-radius: 20px;
+        }
+
+        .ech49 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza49 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma49 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+
+
+
+    .qator50 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz50 {
+            border-radius: 20px;
+        }
+
+        .ech50 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza50 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma50 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+    .qator51 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz51 {
+            border-radius: 20px;
+        }
+
+        .ech51 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza51 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma51 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar19 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator52 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz52 {
+            border-radius: 20px;
+        }
+
+        .ech52 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza52 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma52 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+
+
+
+    .qator53 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz53 {
+            border-radius: 20px;
+        }
+
+        .ech53 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza53 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma53 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+    .qator54 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz54 {
+            border-radius: 20px;
+        }
+
+        .ech54 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza54 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma54 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar20 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator55 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz55 {
+            border-radius: 20px;
+        }
+
+        .ech55 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza55 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma55 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+
+
+
+    .qator56 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz56 {
+            border-radius: 20px;
+        }
+
+        .ech56 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza56 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma56 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+    .qator57 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz57 {
+            border-radius: 20px;
+        }
+
+        .ech57 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+
+        .buyutma57 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar21 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator58 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz58 {
+            border-radius: 20px;
+        }
+
+        .ech58 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza58 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma58 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+
+
+
+    .qator59 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz59 {
+            border-radius: 20px;
+        }
+
+        .ech59 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza59 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma59 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+    .qator60 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz60 {
+            border-radius: 20px;
+        }
+
+        .ech60 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+
+        .pizza60 {
+            margin-left: 20px;
+        }
+
+        .buyutma60 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+.taomlar22 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator61 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz61 {
+            border-radius: 20px;
+        }
+
+        .ech61 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza61 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma61 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+
+
+
+    .qator62 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz62 {
+            border-radius: 20px;
+        }
+
+        .ech62 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pizza62 {
+            margin-left: 20px;
+        }
+
+
+
+        .buyutma62 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+
+
+
+
+    .qator63 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 550px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+        .pzz63 {
+            border-radius: 20px;
+        }
+
+        .ech63 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+
+        .pizza63 {
+            margin-left: 20px;
+        }
+
+        .buyutma63 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+    }
+}
+
+
+.qator64 {
+    background-color: aliceblue;
+    width: 400px;
+    height: 550px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 620px;
+
+    .pzz64 {
+        border-radius: 20px;
+    }
+
+
+
+    .ech64 {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+
+
+    .pizza64 {
+        margin-left: 20px;
+    }
+
+    .buyutma64 {
+        font-size: 15px;
+        background-color: rgb(220, 217, 217);
+        color: black;
+        border: 1px solid rgb(220, 217, 217);
+        padding: 15px;
+        border-radius: 30px;
+        margin-left: 15px;
+        width: 200px;
+    }
+}
+
+.kb4 {
+    text-align: center;
+    font-size: 25px;
+    margin-left: 120px;
+}
+
+.taomlar23 {
+    display: flex;
+    margin-left: 0px;
+
+    .qator65 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+
+
+
+
+        .buyutma65 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech65 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz65 {
+            border-radius: 20px;
+        }
+
+    }
+
+    .qator66 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma66 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech66 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz66 {
+            border-radius: 20px;
+        }
+    }
+
+    .qator67 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma67 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech67 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz67 {
+            border-radius: 20px;
+        }
+    }
+}
+
+.taomlar24 {
+    display: flex;
+    margin-left: 0px;
+
+    .qator68 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+
+
+
+
+        .buyutma68 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech68 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz68 {
+            border-radius: 20px;
+        }
+
+    }
+
+    .qator69 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma69 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech69 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz69 {
+            border-radius: 20px;
+        }
+    }
+
+    .qator70 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma70 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech70 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz70 {
+            border-radius: 20px;
+        }
+    }
+}
+
+.taomlar25 {
+    display: flex;
+    margin-left: 0px;
+
+    .qator71 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+
+
+
+
+        .buyutma71 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech71 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz71 {
+            border-radius: 20px;
+        }
+
+    }
+
+    .qator72 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma72 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech72 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz72 {
+            border-radius: 20px;
+        }
+    }
+
+    .qator73 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma73 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech73 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz73 {
+            border-radius: 20px;
+        }
+    }
+}
+
+.taomlar26 {
+    display: flex;
+    margin-left: 0px;
+
+    .qator74 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+
+
+
+
+        .buyutma74 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech74 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz74 {
+            border-radius: 20px;
+        }
+
+    }
+
+    .qator75 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma75 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech75 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz75 {
+            border-radius: 20px;
+        }
+    }
+
+    .qator76 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma76 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech76 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz76 {
+            border-radius: 20px;
+        }
+    }
+}
+
+.taomlar27 {
+    display: flex;
+    margin-left: 0px;
+
+    .qator77 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+
+
+
+
+        .buyutma77 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech77 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz77 {
+            border-radius: 20px;
+        }
+
+    }
+
+    .qator78 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma78 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech78 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz78 {
+            border-radius: 20px;
+        }
+    }
+
+    .qator79 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma79 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech79 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz79 {
+            border-radius: 20px;
+        }
+    }
+}
+
+.taomlar28 {
+    display: flex;
+    margin-left: 0px;
+
+    .qator80 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+
+
+
+
+        .buyutma80 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech80 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz80 {
+            border-radius: 20px;
+        }
+
+        .pizza80 {
+            margin-left: 20px;
+        }
+
+    }
+
+    .qator81 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma81 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech81 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz81 {
+            border-radius: 20px;
+        }
+
+        .pizza81 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator82 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma82 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech82 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz82 {
+            border-radius: 20px;
+        }
+
+        .pizza82 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.taomlar29 {
+    display: flex;
+    margin-left: 0px;
+
+    .qator83 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+
+
+
+
+        .buyutma83 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech83 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz83 {
+            border-radius: 20px;
+        }
+
+        .pizza83 {
+            margin-left: 20px;
+        }
+
+    }
+
+    .qator84 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma84 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech84 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz84 {
+            border-radius: 20px;
+        }
+
+        .pizza84 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator85 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma85 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech85 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz85 {
+            border-radius: 20px;
+        }
+
+        .pizza85 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.taomlar30 {
+    display: flex;
+    margin-left: 0px;
+
+    .qator86 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+
+
+
+
+        .buyutma86 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech86 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz86 {
+            border-radius: 20px;
+        }
+
+        .pizza86 {
+            margin-left: 20px;
+        }
+
+    }
+
+    .qator87 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma87 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech87 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz87 {
+            border-radius: 20px;
+        }
+
+        .pizza87 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator88 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma88 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech88 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz88 {
+            border-radius: 20px;
+        }
+
+        .pizza88 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.taomlar31 {
+    display: flex;
+    margin-left: 0px;
+
+    .qator89 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+
+
+
+
+        .buyutma89 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech89 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz89 {
+            border-radius: 20px;
+        }
+
+        .pizza89 {
+            margin-left: 20px;
+        }
+
+    }
+
+    .qator90 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma90 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech90 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz90 {
+            border-radius: 20px;
+        }
+
+        .pizza90 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator91 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma91 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech91 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz91 {
+            border-radius: 20px;
+        }
+
+        .pizza91 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.taomlar32 {
+    display: flex;
+    margin-left: 0px;
+
+    .qator92 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+
+
+
+
+        .buyutma92 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech92 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz92 {
+            border-radius: 20px;
+        }
+
+        .pizza92 {
+            margin-left: 20px;
+        }
+
+    }
+
+    .qator93 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma93 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech93 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz93 {
+            border-radius: 20px;
+        }
+
+        .pizza93 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator94 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma94 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech94 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz94 {
+            border-radius: 20px;
+        }
+
+        .pizza94 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.taomlar33 {
+    display: flex;
+    margin-left: 0px;
+
+    .qator95 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+
+
+
+
+        .buyutma95 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech95 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz95 {
+            border-radius: 20px;
+        }
+
+        .pizza95 {
+            margin-left: 20px;
+        }
+
+    }
+
+    .qator96 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma96 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech96 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz96 {
+            border-radius: 20px;
+        }
+
+        .pizza96 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator97 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma97 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech97 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz97 {
+            border-radius: 20px;
+        }
+
+        .pizza97 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.taomlar34 {
+    display: flex;
+    margin-left: 0px;
+
+    .qator98 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+
+
+
+
+        .buyutma98 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech98 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz98 {
+            border-radius: 20px;
+        }
+
+        .pizza98 {
+            margin-left: 20px;
+        }
+
+    }
+
+    .qator99 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma99 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech99 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz99 {
+            border-radius: 20px;
+        }
+
+        .pizza99 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator100 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma100 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech100 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz100 {
+            border-radius: 20px;
+        }
+
+        .pizza100 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.qator101 {
+    background-color: aliceblue;
+    width: 400px;
+    height: 630px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 620px;
+
+
+
+
+    .buyutma101 {
+        font-size: 15px;
+        background-color: rgb(220, 217, 217);
+        color: black;
+        border: 1px solid rgb(220, 217, 217);
+        padding: 15px;
+        border-radius: 30px;
+        margin-left: 15px;
+        width: 200px;
+    }
+
+    .ech101 {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+
+    .pzz101 {
+        border-radius: 20px;
+    }
+
+    .pizza101 {
+        margin-left: 20px;
+    }
+}
+
+.taomlar35 {
+    display: flex;
+    margin-left: -390px;
+
+    .qator102 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma102 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech102 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz102 {
+            border-radius: 20px;
+        }
+
+        .pizza102 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator103 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma103 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech103 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz103 {
+            border-radius: 20px;
+        }
+
+        .pizza103 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.kb5 {
+    text-align: center;
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+.taomlar36 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator104 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma104 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech104 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz104 {
+            border-radius: 20px;
+        }
+
+        .pizza104 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator105 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma105 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech105 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz105 {
+            border-radius: 20px;
+        }
+
+        .pizza105 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator106 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma106 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech106 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz106 {
+            border-radius: 20px;
+        }
+
+        .pizza106 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.kb6 {
+    text-align: center;
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+.taomlar37 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator107 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma107 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech107 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz107 {
+            border-radius: 20px;
+        }
+
+        .pizza107 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator108 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma108 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech108 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz108 {
+            border-radius: 20px;
+        }
+
+        .pizza108 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator109 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma109 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech109 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz109 {
+            border-radius: 20px;
+        }
+
+        .pizza109 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.taomlar38 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator110 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma110 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech110 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz110 {
+            border-radius: 20px;
+        }
+
+        .pizza110 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator111 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma111 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech111 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz111 {
+            border-radius: 20px;
+        }
+
+        .pizza111 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator112 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma112 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech112 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz112 {
+            border-radius: 20px;
+        }
+
+        .pizza112 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.taomlar39 {
+    display: flex;
+    margin-left: -370px;
+
+    .qator113 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma113 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech113 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz113 {
+            border-radius: 20px;
+        }
+
+        .pizza113 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator114 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma114 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech114 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz114 {
+            border-radius: 20px;
+        }
+
+        .pizza114 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.kb7 {
+    text-align: center;
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+.taomlar40 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator115 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma115 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech115 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz115 {
+            border-radius: 20px;
+        }
+
+        .pizza115 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator116 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma116 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech116 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz116 {
+            border-radius: 20px;
+        }
+
+        .pizza116 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator117 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma117 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech117 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz117 {
+            border-radius: 20px;
+        }
+
+        .pizza117 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.taomlar41 {
+    display: flex;
+    margin-left: 70px;
+
+    .qator118 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma118 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech118 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz118 {
+            border-radius: 20px;
+        }
+
+        .pizza118 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator119 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma119 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech119 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz119 {
+            border-radius: 20px;
+        }
+
+        .pizza119 {
+            margin-left: 20px;
+        }
+    }
+
+    .qator120 {
+        background-color: aliceblue;
+        width: 400px;
+        height: 630px;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 50px;
+
+
+
+
+        .buyutma120 {
+            font-size: 15px;
+            background-color: rgb(220, 217, 217);
+            color: black;
+            border: 1px solid rgb(220, 217, 217);
+            padding: 15px;
+            border-radius: 30px;
+            margin-left: 15px;
+            width: 200px;
+        }
+
+        .ech120 {
+            font-size: 30px;
+            margin-left: 20px;
+        }
+
+        .pzz120 {
+            border-radius: 20px;
+        }
+
+        .pizza120 {
+            margin-left: 20px;
+        }
+    }
+}
+
+.rasmlar {
+    margin-left: 120px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.div {
+    text-align: center;
+    margin-top: -250px;
+    background-color: grey;
+    margin-left: -350px;
+}
+
+
+.rasmlar1 {
+    margin-top: -150px;
+    text-align: end;
+    display: flex;
+}
+
+.hammasi1 {
+    margin-left: 1500px;
+    margin-top: -300px;
+}
+
+.rasmlar2 {
+    margin-top: 30px;
+}
+
+.buyutma-berish {
+    margin-left: -250px;
+}
+
+.p1 {
+    margin-left: -150px;
+}
+
+.p2 {
+    margin-left: -335px;
+}
+
+.p3 {
+    margin-left: -150px;
+}
+
+.p4 {
+    margin-left: -245px;
+}
+
+.hammasi {
+    background-color: grey;
+    height: 400px;
+    padding: 10px;
+}
+
+.gyar {
+    font-size: 12px;
+    margin-left: -339px;
+    color: gainsboro;
+}
+
+footer {
+    background-color: black;
+    height: 500px;
+    display: flex;
+    gap: 200px;
+    justify-content: space-around;
+}
+
+.f2 {
+    color: aliceblue;
+}
+
+.foter1 {
+    margin-left: 130px;
+}
+
+.silka1 {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.silka2 {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.silka3 {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.silka4 {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.silka5 {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.silka6 {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.silka7 {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.kuzat {
+    color: aliceblue;
+}
+
+
+.oxr {
+    display: flex;
+    margin-left: -1290px;
+}
+
+.oxirgi {
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 80px;
+    margin-left: -500px;
+}
+
+div {
+    text-align: center;
+}
+
+.rasmlar {
+    margin-left: -1200px;
+    background-size: cover;
+}
+
+.rasmlar1 {
+    margin-left: 700px;
+}
+
+.rasmlar2 {
+    margin-left: 700px;
+}
+
+.oxirgi-buyutma {
+    margin-left: 900px;
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+
+.prava {
+    margin-left: 400px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+
+div {
+    justify-content: center;
+    margin-left: -100px;
+}
+
+section {
+    div {
+        justify-content: center;
+    }
+}
+
+div {
+    text-align: start;
+}
+
+.oxirgi-buyutma2 {
+    color: black;
+    text-decoration: none;
+}
+
+.kuzat1 {
+    border-radius: 10px;
+}
+
+
+.kuzat2 {
+    border-radius: 10px;
+}
+
+
+.kuzat3 {
+    border-radius: 10px;
+}
