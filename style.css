@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 header {
@@ -4298,10 +4299,7 @@ body {
         border-radius: 20px;
         margin-top: 50px;
         margin-left: 50px;
-
-
-
-
+        
         .buyutma105 {
             font-size: 15px;
             background-color: rgb(220, 217, 217);
@@ -4334,9 +4332,6 @@ body {
         border-radius: 20px;
         margin-top: 50px;
         margin-left: 50px;
-
-
-
 
         .buyutma106 {
             font-size: 15px;
@@ -4382,9 +4377,6 @@ body {
         margin-top: 50px;
         margin-left: 50px;
 
-
-
-
         .buyutma107 {
             font-size: 15px;
             background-color: rgb(220, 217, 217);
@@ -4418,9 +4410,6 @@ body {
         margin-top: 50px;
         margin-left: 50px;
 
-
-
-
         .buyutma108 {
             font-size: 15px;
             background-color: rgb(220, 217, 217);
@@ -4453,9 +4442,6 @@ body {
         border-radius: 20px;
         margin-top: 50px;
         margin-left: 50px;
-
-
-
 
         .buyutma109 {
             font-size: 15px;
@@ -4494,9 +4480,6 @@ body {
         border-radius: 20px;
         margin-top: 50px;
         margin-left: 50px;
-
-
-
 
         .buyutma110 {
             font-size: 15px;
@@ -4918,7 +4901,6 @@ body {
     margin-left: -350px;
 }
 
-
 .rasmlar1 {
     margin-top: -150px;
     text-align: end;
@@ -5021,7 +5003,6 @@ footer {
     color: aliceblue;
 }
 
-
 .oxr {
     display: flex;
     margin-left: -1290px;
@@ -5064,7 +5045,6 @@ div {
     border-radius: 20px;
 }
 
-
 div {
     justify-content: center;
     margin-left: -100px;
@@ -5089,11 +5069,9 @@ div {
     border-radius: 10px;
 }
 
-
 .kuzat2 {
     border-radius: 10px;
 }
-
 
 .kuzat3 {
     border-radius: 10px;
